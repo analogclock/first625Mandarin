@@ -1,7 +1,7 @@
-#ABOUT
+###ABOUT
 This contains flashcards for the ~600 most frequently used meaningful words in mandarin chinese, using wordlists and translations from FluentForever. There is an Anki deck which is designed to use with Anki software, and text versions of the flashcards with comma separated fields
 
-#INSTRUCTIONS
+###INSTRUCTIONS
 Download any folder or file by right-clicking the item and selecting download from the drop-down menu, or by opening the file and clicking the download icon near the upper-right corner
 
 Anki Flashcards: you must first install Anki software. It is free and can be installed here. Then, open the AnkiCards folder and download 1st625words.apkg
