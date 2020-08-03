@@ -1,0 +1,12 @@
+夜晚,yèwǎn,night
+年,nián,year
+天,tiān ,day
+晚上,wǎnshàng,evening
+早 上,zǎoshàng,morning
+月,yuè,month
+时间,shíjiān,time
+下午,xiàwǔ,afternoon
+分钟,fēnzhōng,minute
+秒,miǎo,second
+星期,xīngqī ,week
+小时,xiǎoshí,hour

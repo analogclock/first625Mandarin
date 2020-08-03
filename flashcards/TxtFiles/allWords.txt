@@ -1,0 +1,618 @@
+地球,dìqiú,Earth
+天空,tiānkōng,sky
+月亮,yuèliàng,moon
+星,xīng,star
+河,hé,river
+冰,bīng,ice
+雨,yǔ,rain
+山,shān,mountain
+海滩,hǎitān,beach
+沙,shā,sand
+岛,dǎo,island
+土,tǔ,soil/earth
+植物,zhíwù,plant
+海,hǎi,sea
+雪,xuě,snow
+森林,sēnlín,forest
+风,fēng,wind
+叶子,yèzi,leaf
+太 阳,tàiyáng,sun
+自然,zìrán,nature
+树,shù,tree
+根,gēn,root
+空气,kōngqì,air
+湖,hú,lake
+山,shān,hill
+热量,rèliàng,heat
+山谷,shāngǔ,valley
+海洋,hǎiyáng,ocean
+波浪,bōlàng,wave
+世界,shìjiè,world
+花,huā,flower
+草,cǎo,grass
+火,huǒ,fire
+上,shàng,up
+北,beǐ,north
+底部,dǐbù,bottom
+前面,qiánmiàn,front
+左,zuǒ,left
+旁边,pángbiān,side
+里面,lǐmiàn,inside
+直,zhí,straight
+后面,hòumiàn,back (direction)
+外面,waìmiàn,outside
+南,nán,south
+西,xī,west
+东,dōng,east
+方向,fāngxiàng,direction
+右,yoù,right
+上面,shàngmiàn,top
+一,yī,1
+一百零一,yībaǐlíngyī,101
+二十,èrshí,20
+第一,dìyī,1st
+五,wǔ,5
+一千零一,yīqiānlíngyī,1001
+第 二,dì'èr,2nd
+八十,bāshí,80
+七 十,qīshí,70
+一百万,yībaǐwàn,million
+零,líng,0
+数字,shùzi,number
+四,sì,4
+三十,sānshí,30
+七,qī,7
+十亿,shíyì,billion
+十一,shíyī,11
+十五,shíwǔ,15
+三,sān,3
+八,bā,8
+三十 一,sānshíyī,31
+二,èr,2
+二十 二,èrshí'èr,22
+九,jiǔ,9
+四 十,sìshí,40
+六,liù,6
+十,shí,10
+十二,shí'èr,12
+一百零二,yībaǐlíng'èr,102
+十三,shísān,13
+十八,shíbā,18
+十七,shíqī,17
+十六,shíliù,16
+九十,jiǔshí,90
+八十一,bāshíyī,81
+六十,liùshí,60
+第三,dìsān,3rd
+二十一,èrshíyī,21
+六十二,liùshí'èr,62
+五十,wǔshí,50
+一百,yībaǐ,100
+五十二,wǔshí'èr,52
+一千,yīqiān,1000
+五十一,wǔshíyī,51
+八十二,bāshí'èr,82
+九十一,jiǔshíyī,91
+七十二,qīshí'èr,72
+第四,dìsì,4th
+一万,yīwàn,10000
+十四,shísì,14
+九十二,jiǔshí'èr,92
+六十一,liùshíyī,61
+十九,shíjiǔ,19
+四 十一,sìshíyī,41
+第五,dìwǔ,5th
+一百一十一,yībaǐyīshíyī,111
+十万,shíwàn,100000
+七十一,qīshíyī,71
+四十二,sìshí'èr,42
+一百一,yībaǐyī,110
+三十二,sānshí'èr,32
+白色,báisè,white
+灰 色,huīsè,gray
+黄色,huángsè,yellow
+绿色,lǜsè,green
+橙 色,chéngsè,orange
+颜色,yánsè,color
+蓝色,lánsè,blue
+红色,hóngsè,red
+黑色,hēisè,black
+粉红色,fěnhóngsè,pink
+褐色,hèsè,brown
+点,diǎn,dot
+疼,téng ,pain
+动词,dòngcí,verb
+名词,míngcí,noun
+形容词,xíngróngcí,adjective
+是 [的],shì [de],yes
+光,guāng,light
+图像,túxiàng,image
+洞,dòng,hole
+块,kuaì,piece
+辅音,fǔyīn,consonant
+声音,shēngyīn,sound
+否,fǒu,no
+地 图,dìtú,map
+伤势,shāngshì,injury
+元音,yuányīn,vowel
+样式,yàngshì,pattern
+星期五,xīngqīwǔ ,Friday
+星期天,xīngqītiān ,Sunday
+星期四,xīngqīsì ,Thursday
+星期三,xīngqīsān ,Wednesday
+星期二,xīngqī'èr ,Tuesday
+星期六,xīngqīliù ,Saturday
+星期一,xīngqīyī ,Monday
+服务员,fúwùyuán,waiter
+艺术家,yìshùjiā,artist
+律师,lǜshī,lawyer
+医生,yīshēng,doctor
+经理,jīnglǐ,manager
+工作,gōngzuò,job
+演员,yǎnyuán,actor
+学生,xuéshēng,student
+秘书,mìshū,secretary
+警察,jǐngchá,police
+老师,lǎoshī,teacher
+作家,zuòjiā,author
+神职人员,shénzhírényuán,priest
+记者,jìzhe,reporter
+军队,jūnduì,army
+病人,bìngrén,patient
+兵 士兵,shì bīng,soldier
+站,zhàn,to stand
+数,shǔ,to count
+跳,tiaò,to jump
+熔化,rónghuà,to melt
+吻,wěn,to kiss
+触摸,chùmō,to touch
+穿,chuān,to wear
+哭,kù,to cry
+爱,aì,to love
+走,zǒu,to walk
+买,maǐ,to buy
+卖,maì,to sell
+掉,diaò,to fall
+拿,ná,to carry
+挖,wā,to dig
+吃,chī,to eat
+坐,zuò,to sit
+下,xià,down
+签名,qiānmíng,to sign
+睡觉,shuìjiaò,to sleep
+推,tuī,to push
+随,suí ,to follow
+去,qù,to go
+抖,dǒu,to shake
+投掷,tóuzhì,to throw
+击败,jībà,to beat
+拉,lā,to pull
+嗅,xiù,to smell
+看见,kànjiàn,to see
+接住,jiēzhù,to catch
+学习,xué xí,to learn
+做饭,zuòfàn,to cook
+付,钱),to pay
+唱歌,chànggē,to sing
+走过,zǒuguò,to pass by
+画,huà,to draw
+挂,guà,to hang
+玩,wán,to play
+输,shū,to lose
+举起,jǔqǐ,to lift
+躺,tǎng,to lie down
+叫,jiaò,to call
+笑,xiào,to laugh
+游泳,yóuyǒng,to swim
+建设,jiànshè,to build
+跑,pǎo,to run
+赢,yíng,to win
+战斗,zhàndòu,to fight
+射击,shèjī,to shoot
+教,jiaō,to teach
+微笑,wēixiào,to smile
+写,xiě,to write
+听,tīng,to listen (music)
+飞翔,fēixiáng,to fly
+工作,gōngzuò,to work
+想,xiǎng,to think
+开,kaī,to drive
+转,zhuǎn ,to turn
+停,tíng,to stop
+打 扫,dǎsǎo,to clean
+喂,wèi,to feed
+搅拌,jiǎobàn,to mix/stir
+听见,tīngjiàn,to hear (a sound)
+爆 炸,bàozhà,to explode
+说,shuō,to speak/say
+找到,zhaǒdaò,to find
+尝,cháng,to taste
+结婚,jiéhūn,to marry
+祈祷,qí dǎo,to pray
+燃烧,ránshāo,to burn
+关,guān,to close
+背,bèi,back (body)
+脖子,bózi,neck
+身体,shēntǐ,body
+耳朵,ěrduo,ear
+眼 泪,yǎnlèi,tear (drop)
+腿,tuǐ,leg
+声音,shēngyīn,voice
+心,xīn,heart
+病,bìng,disease
+脚,jiǎo,foot
+鼻子,bízi,nose
+眼睛,yǎnjing,eye
+手指,shǒuzhǐ,finger
+汗水,hànshuǐ,sweat
+手,shǒu,hand
+肩膀,jiānbǎng,shoulder
+皮肤,pífū,skin
+头,tóu,head
+脑子,nǎozi,brain
+血,xuè,blood
+脸,liǎn,face
+胡子,húzi,beard
+头 发,tóufà,hair
+唇 嘴唇,zuǐchún,lip
+牙 牙齿,yá chǐ,tooth
+膝盖,xīgài,knee
+脚趾,jiǎozhǐ,toe
+胳膊,gēbo,arm
+骨头,gǔtóu,bone
+舌头,shétou,tongue
+嘴,zuǐ,mouth
+年轻,niánqīng,young
+浅,qiǎn,shallow
+新,xīn,new
+健康的,jiànkāngde,healthy
+矮,ǎi,short (vs tall)
+紧,jǐn,tight
+聋,lóng,deaf
+响亮的,xiǎngliàng de,loud
+暗,àn,dark
+冷,lěng,cold
+湿,shī,wet
+长,cháng,long
+松,sōng,loose
+旧,jiù,old (vs new)
+硬,yìng,hard
+死的,sǐde,dead
+弯曲的,wānqū de,curved
+暖,nuǎn,warm
+脏,zāng,dirty
+美丽,měilì,beautiful
+高,gāo,tall
+便宜,piányi,cheap
+安静,ānjìng,quiet
+活着的,huózhede,alive
+盲,máng,blind
+快乐,kuàilè,happy
+窄,zhǎi,narrow
+瘦,shòu,thin
+小,xiǎo,small/little
+强,qiáng,strong
+重,zhòng,heavy
+丑,chǒu,ugly
+平的,píng de,flat
+好,hǎo,good
+热,rè,hot
+干,gān,dry
+厚,hòu,thick
+大,dà,big/large
+男的,nánde,male
+高,gāo,high
+快,kuài,fast
+不好,bùhǎo,bad
+伤心,shāngxīn,sad
+和蔼,hé'ǎi,nice
+亮的,liàngde,light (vs dark)
+女的,nǚde,female
+富有,fùyǒu,rich
+慢,màn,slow
+穷,qióng,poor
+核的,héde,nuclear
+贵,guì,expensive
+低,dī,low
+短,duǎn,short (vs long)
+深,shēn,deep
+弱,ruò,weak
+软,ruǎn,soft
+老,lǎo,old (vs young)
+生 病(了),shēngbìng,sick
+干 净,gānjìng,clean
+有名,yǒumíng,famous
+刻薄,kèbó,mean
+轻,qīng,light (vs heavy)
+宽,kuān,wide
+凉,liáng,cool
+狗,gǒu,dog
+猪,zhū,pig
+猫,māo,cat
+老鼠,lǎoshǔ,mouse
+马,mǎ,horse
+动物,dòngwù,animal
+鱼,yú,fish
+鸟,niǎo,bird
+翅膀,chìbǎng,wing
+牛,niú,cow
+公园,gōngyuán,park
+戏院,xìyuàn,theater
+城镇,chéngzhèn,town
+商店,shāngdiàn,store/shop
+土地,tǔdì,ground
+酒 店,jiǔdiàn,hotel
+法院,fǎyuàn,court
+银行,yínháng,bank
+饭馆,fànguǎn,restaurant
+火车站,huǒchēzhàn,train station
+大楼,dàlóu,building
+市场,shìchǎng,market
+机场,jīchǎng,airport
+房子,fángzi,house
+酒吧,jiǔbā,bar
+大 学,dàxué,university
+办公室,bàngōngshì,office
+图书馆,túshūguǎn,library
+学校,xuéxiào,school
+俱乐部,jùlèbù,club
+地点,dìdiǎn,location
+太空,tàikōng,space (outer space)
+城市,chéngshì,city
+桥,qiáo,bridge
+农场,nóngchǎng,farm
+国家,guójiā,country (USA/France/etc.)
+路,lù,street/ road
+教堂,jiàotáng,church
+野营,yěyíng,camp
+房子,fángzi,apartment
+医院,yīyuàn,hospital
+室 房间,shì ,room
+春天,chūntiān,Spring
+冬天,dōngtiān,Winter
+夏天,xiàtiān,Summer
+秋天,qiūtiān,Fall
+季节,jìjié,season
+三月,sānyuè,March
+一月,yīyuè,January
+二月,èryuè,February
+六月,liùyuè,June
+十 二月,shí'èryuè,December
+十月,shíyuè,October
+八月,bāyuè,August
+四月,sìyuè,April
+十一月,shíyīyuè,November
+七月,qīyuè,July
+五月,wǔyuè,May
+九月, jiǔyuè,September
+性交,xìngjiāo,sex (the act)
+婚姻,hūnyīn,marriage
+体育,tǐyù,sport
+运动,yùndòng,exercise
+钱,qián,money
+招牌,biāo zhì/ fú hào],sign
+价格,jiàgé,price
+天堂,tiāntáng,heaven
+美元,měiyuán,dollar
+合同,hétong,contract
+药,yaò,medicine
+婚礼,hūnlǐ,wedding
+队,duì,team
+球,qiú,ball
+技术,jìshù,technology
+毒品,dúpǐn,drug
+监狱,jiānyù,prison
+死亡,sǐwáng,death
+游戏,yóuxì,game
+速度竞赛,sùdù jìngsài,race (sport)
+选举,xuǎnjǔ,election
+种族,zhǒngzú,race (ethnicity)
+枪,qiāng,gun
+谋杀,móushā,murder
+性别,xìngbié,sex (gender)
+科学,kēxué,science
+杂志,zázhì,magazine
+能源,néngyuán,energy
+钞 票,chāopiào,bill
+上帝,shàngdì,God
+和平,hépíng,peace
+报纸,bàozhǐ,newspaper
+袭击,xíjī,attack
+战争,zhànzhēng,war
+地 狱,dìyù,hell
+宗教,zōngjiaò,religion
+毒药,dúyào,poison
+英尺,yīngchǐ,foot
+重量,zhòngliàng,weight
+圆圈,yuánquān,circle
+厘米,límǐ,centimeter
+日期,rìqī,date
+公斤,gōngjīn,kilogram
+气温,qìwēn,temperature
+正方形,zhèngfāngxíng,square
+米,mǐ,meter
+半,bàn,half
+边缘,biānyuán,edge
+角落,jiǎoluò,corner
+磅,bàng,pound
+英寸,yīngcùn,inch
+女人,nǚrén,woman
+父母,fùmu,parent (= mother/father)
+婴儿,yīng'ér,baby
+国王,guó wáng,king
+家庭,jiātíng,family
+男人,nánrén,man
+妻子,qīzi,wife
+球星,qiúxīng,player
+迷,mí,fan
+成人,chéngrén,adult
+男孩子,nánhaízi,boy
+朋 友,péngyoǔ,friend (Add a friend's name)
+姐姐,jiějie ,sister
+邻居,línjū,neighbor
+哥哥,gēge ,brother
+总统,zǒngtǒng,president
+人,rén,human (≠ animal)
+孩子,haízi,child (= boy/girl)
+女孩子,nǚhaízi,girl
+女王,nǚwáng,queen
+妈妈,māma,mother
+丈 夫,zhàngfu,husband
+爷爷,yéyé ,grandfather
+女儿,nǚ'ér,daughter
+奶奶,nǎinai ,grandmother
+人,rén,person
+人群,rénqún,crowd
+儿子,érzi,son
+受害者,shòuhàizhě,victim
+爸爸,bàba,father
+戒指,jièzhi,ring
+电话,diànhuà,telephone
+礼物,lǐwù,gift
+照片,zhàopiàn,photograph
+工具,gōngjù,tool
+床,chuáng,bed
+家,jiā,home
+锁,suǒ,lock
+针,zhēn,needle
+纸,zhǐ,paper
+信,xìn,letter
+椅子,yǐzi,chair
+桌子,zhuōzi,table
+盒子,hézi,box
+卫生间,wèishēngjiān ,bathroom
+窗,chuāng,window
+园,yuán,garden
+厨房,chúfáng,kitchen
+游泳池,yóuyǒngchí,pool
+地板,dìbǎn,floor
+笔,bǐ,pen
+墙,qiáng,wall
+院子,yuànzi,yard
+袋子,dàizi,bag
+卧室,wòshì,bedroom
+天花板,tiānhuābǎn,ceiling
+油漆,yóuqī,paint
+卡,kǎ,card
+铅笔,qiānbǐ,pencil
+便条,biàntiáo,note
+梦想,mèngxiǎng,dream
+页,yè,page
+书,shū,book
+钥匙,yàoshi,key
+门,mén,door
+屋顶,wūdǐng,roof
+肥皂,féizào,soap
+裙子,qúnzi,skirt
+衣服,yīfu,clothing
+裤子,kùzi,pants
+口袋,kǒudai,pocket
+鞋子,xiézi,shoes
+连衣裙,liányīqún,dress
+衬衫,chènshān,shirt
+大衣,dàyī,coat
+污渍,wūzì,stain
+帽子,màozi,hat
+西服,xīfú,suit
+T 恤,T xù,T-shirt
+夜晚,yèwǎn,night
+年,nián,year
+天,tiān ,day
+晚上,wǎnshàng,evening
+早 上,zǎoshàng,morning
+月,yuè,month
+时间,shíjiān,time
+下午,xiàwǔ,afternoon
+分钟,fēnzhōng,minute
+秒,miǎo,second
+星期,xīngqī ,week
+小时,xiǎoshí,hour
+自行车,zìxíngchē,bicycle
+卡车,kǎchē,truck
+轮胎,lúntāi,tire
+船,chuán,boat
+飞机,fēijī,plane
+(火车)票,zhāng,(train) ticket
+公共汽车,gōnggòngqìchē,bus
+火车,huǒchē,train
+汽油,qìyóu,gasoline
+发 动机,fādòngjī,engine
+汽车,qìchē,car
+交通,jiāotōng,transportation
+船,chuán,ship
+它,tā,it
+你们,nǐmen,you (plural as in 'y'all')
+你,nǐ,you (singular)
+我,wǒ,I
+她,tā,she
+我们,wǒmen,we
+他 们,tāmen,they
+他,tā,he
+大坝,tāmen,they (objects)
+面 团,tāmen,they (feminine)
+石头,shítou,stone
+玻璃,bōli,glass
+铜,tóng,copper
+黏土,niántǔ,clay
+塑料,sùliào,plastic
+钻石,zuànshí,diamond
+木头,mùtou,wood
+金子,jīnzi,gold
+金属,jīnshǔ,metal
+银子,yínzi,silver
+材料,cáiliào,material
+尘 土,chéntǔ,dust
+玉米,yùmǐ,corn
+晚饭,wǎnfàn,dinner
+葡萄酒,pútáojiǔ,wine
+鸡肉,jīròu,chicken
+汤,tāng,soup
+勺子,sháozi,spoon
+米饭,mǐfàn,rice
+鸡蛋,dàn,egg
+早餐,zǎocān,breakfast
+杯子,bēizi,cup
+橙子,chéngzi,orange
+柠檬,níngméng,lemon
+糖,táng,sugar
+蛋糕,dàngāo,cake
+餐叉,cānchā,fork
+碟子,diézi,plate
+食物,shíwù,food
+午饭,wǔfàn,lunch
+面包,miànbāo,bread
+牛肉,niúròu,beef
+香蕉,xiāngjiāo,banana
+瓶子,píngzi,bottle
+奶酪,nǎilào,cheese
+盐,yán,salt
+油,yóu,oil
+猪肉,zhūròu,pork
+苹果,píngguǒ,apple
+籽,zǐ,seed
+刀,dāo,knife
+照相机,zhàoxiàngjī,camera
+灯,dēng,lamp
+时钟,shízhōng,clock
+电脑,diànnǎo,computer
+程序,chéngxù,program (computer)
+电扇,diàn shàn,fan
+手 机,shǒujī,cell phone
+网络,wǎngluò,network
+笔记本,bǐjìběn,laptop
+收音机,shōuyīnjī,radio
+电视,diànshì,television
+屏幕,píngmù,screen
+咖啡,kāfēi,coffee
+汁,zhī,juice
+水,shuǐ,water
+啤酒,píjiǔ,beer
+牛奶,niúnǎi,milk
+茶,chá,tea
+饮料,yǐnliào,beverage
+艺术,yìshù,art
+电影,diànyǐng,movie
+音乐,yīnyuè,music
+乐器,yuèqì,instrument (musical)
+乐队,yuèduì,band
+歌,gē,song

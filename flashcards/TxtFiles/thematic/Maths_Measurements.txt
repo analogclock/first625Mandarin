@@ -1,0 +1,14 @@
+英尺,yīngchǐ,foot
+重量,zhòngliàng,weight
+圆圈,yuánquān,circle
+厘米,límǐ,centimeter
+日期,rìqī,date
+公斤,gōngjīn,kilogram
+气温,qìwēn,temperature
+正方形,zhèngfāngxíng,square
+米,mǐ,meter
+半,bàn,half
+边缘,biānyuán,edge
+角落,jiǎoluò,corner
+磅,bàng,pound
+英寸,yīngcùn,inch

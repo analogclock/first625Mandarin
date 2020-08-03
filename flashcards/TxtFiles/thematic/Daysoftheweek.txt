@@ -1,0 +1,7 @@
+星期五,xīngqīwǔ ,Friday
+星期天,xīngqītiān ,Sunday
+星期四,xīngqīsì ,Thursday
+星期三,xīngqīsān ,Wednesday
+星期二,xīngqī'èr ,Tuesday
+星期六,xīngqīliù ,Saturday
+星期一,xīngqīyī ,Monday

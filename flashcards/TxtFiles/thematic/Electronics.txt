@@ -1,0 +1,12 @@
+照相机,zhàoxiàngjī,camera
+灯,dēng,lamp
+时钟,shízhōng,clock
+电脑,diànnǎo,computer
+程序,chéngxù,program (computer)
+电扇,diàn shàn,fan
+手 机,shǒujī,cell phone
+网络,wǎngluò,network
+笔记本,bǐjìběn,laptop
+收音机,shōuyīnjī,radio
+电视,diànshì,television
+屏幕,píngmù,screen

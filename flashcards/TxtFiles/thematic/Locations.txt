@@ -1,0 +1,32 @@
+公园,gōngyuán,park
+戏院,xìyuàn,theater
+城镇,chéngzhèn,town
+商店,shāngdiàn,store/shop
+土地,tǔdì,ground
+酒 店,jiǔdiàn,hotel
+法院,fǎyuàn,court
+银行,yínháng,bank
+饭馆,fànguǎn,restaurant
+火车站,huǒchēzhàn,train station
+大楼,dàlóu,building
+市场,shìchǎng,market
+机场,jīchǎng,airport
+房子,fángzi,house
+酒吧,jiǔbā,bar
+大 学,dàxué,university
+办公室,bàngōngshì,office
+图书馆,túshūguǎn,library
+学校,xuéxiào,school
+俱乐部,jùlèbù,club
+地点,dìdiǎn,location
+太空,tàikōng,space (outer space)
+城市,chéngshì,city
+桥,qiáo,bridge
+农场,nóngchǎng,farm
+国家,guójiā,country (USA,France,etc.)
+路,lù,street/ road
+教堂,jiàotáng,church
+野营,yěyíng,camp
+房子,fángzi,apartment
+医院,yīyuàn,hospital
+室 房间,shì ,room

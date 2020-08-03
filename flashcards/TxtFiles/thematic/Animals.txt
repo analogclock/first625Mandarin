@@ -1,0 +1,10 @@
+狗,gǒu,dog
+猪,zhū,pig
+猫,māo,cat
+老鼠,lǎoshǔ,mouse
+马,mǎ,horse
+动物,dòngwù,animal
+鱼,yú,fish
+鸟,niǎo,bird
+翅膀,chìbǎng,wing
+牛,niú,cow

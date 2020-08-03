@@ -1,0 +1,31 @@
+背,bèi,back (body)
+脖子,bózi,neck
+身体,shēntǐ,body
+耳朵,ěrduo,ear
+眼 泪,yǎnlèi,tear (drop)
+腿,tuǐ,leg
+声音,shēngyīn,voice
+心,xīn,heart
+病,bìng,disease
+脚,jiǎo,foot
+鼻子,bízi,nose
+眼睛,yǎnjing,eye
+手指,shǒuzhǐ,finger
+汗水,hànshuǐ,sweat
+手,shǒu,hand
+肩膀,jiānbǎng,shoulder
+皮肤,pífū,skin
+头,tóu,head
+脑子,nǎozi,brain
+血,xuè,blood
+脸,liǎn,face
+胡子,húzi,beard
+头 发,tóufà,hair
+唇 嘴唇,zuǐchún,lip
+牙 牙齿,yá chǐ,tooth
+膝盖,xīgài,knee
+脚趾,jiǎozhǐ,toe
+胳膊,gēbo,arm
+骨头,gǔtóu,bone
+舌头,shétou,tongue
+嘴,zuǐ,mouth

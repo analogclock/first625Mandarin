@@ -1,0 +1,12 @@
+裙子,qúnzi,skirt
+衣服,yīfu,clothing
+裤子,kùzi,pants
+口袋,kǒudai,pocket
+鞋子,xiézi,shoes
+连衣裙,liányīqún,dress
+衬衫,chènshān,shirt
+大衣,dàyī,coat
+污渍,wūzì,stain
+帽子,màozi,hat
+西服,xīfú,suit
+T 恤,T xù,T-shirt
