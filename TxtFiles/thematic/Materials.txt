@@ -1,0 +1,12 @@
+石头,shítou,stone
+玻璃,bōli,glass
+铜,tóng,copper
+黏土,niántǔ,clay
+塑料,sùliào,plastic
+钻石,zuànshí,diamond
+木头,mùtou,wood
+金子,jīnzi,gold
+金属,jīnshǔ,metal
+银子,yínzi,silver
+材料,cáiliào,material
+尘 土,chéntǔ,dust

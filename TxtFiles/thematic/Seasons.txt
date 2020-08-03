@@ -1,0 +1,5 @@
+春天,chūntiān,Spring
+冬天,dōngtiān,Winter
+夏天,xiàtiān,Summer
+秋天,qiūtiān,Fall
+季节,jìjié,season

@@ -1,0 +1,13 @@
+自行车,zìxíngchē,bicycle
+卡车,kǎchē,truck
+轮胎,lúntāi,tire
+船,chuán,boat
+飞机,fēijī,plane
+(火车)票,zhāng,(train) ticket
+公共汽车,gōnggòngqìchē,bus
+火车,huǒchē,train
+汽油,qìyóu,gasoline
+发 动机,fādòngjī,engine
+汽车,qìchē,car
+交通,jiāotōng,transportation
+船,chuán,ship

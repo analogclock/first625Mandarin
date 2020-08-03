@@ -1,0 +1,16 @@
+上,shàng,up
+北,beǐ,north
+底部,dǐbù,bottom
+前面,qiánmiàn,front
+左,zuǒ,left
+旁边,pángbiān,side
+里面,lǐmiàn,inside
+直,zhí,straight
+后面,hòumiàn,back (direction)
+外面,waìmiàn,outside
+南,nán,south
+西,xī,west
+东,dōng,east
+方向,fāngxiàng,direction
+右,yoù,right
+上面,shàngmiàn,top

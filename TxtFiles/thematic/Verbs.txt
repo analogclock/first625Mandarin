@@ -1,0 +1,71 @@
+站,zhàn,to stand
+数,shǔ,to count
+跳,tiaò,to jump
+熔化,rónghuà,to melt
+吻,wěn,to kiss
+触摸,chùmō,to touch
+穿,chuān,to wear
+哭,kù,to cry
+爱,aì,to love
+走,zǒu,to walk
+买,maǐ,to buy
+卖,maì,to sell
+掉,diaò,to fall
+拿,ná,to carry
+挖,wā,to dig
+吃,chī,to eat
+坐,zuò,to sit
+下,xià,down
+签名,qiānmíng,to sign
+睡觉,shuìjiaò,to sleep
+推,tuī,to push
+随,suí ,to follow
+去,qù,to go
+抖,dǒu,to shake
+投掷,tóuzhì,to throw
+击败,jībà,to beat
+拉,lā,to pull
+嗅,xiù,to smell
+看见,kànjiàn,to see
+接住,jiēzhù,to catch
+学习,xué xí,to learn
+做饭,zuòfàn,to cook
+付,钱),to pay
+唱歌,chànggē,to sing
+走过,zǒuguò,to pass by
+画,huà,to draw
+挂,guà,to hang
+玩,wán,to play
+输,shū,to lose
+举起,jǔqǐ,to lift
+躺,tǎng,to lie down
+叫,jiaò,to call
+笑,xiào,to laugh
+游泳,yóuyǒng,to swim
+建设,jiànshè,to build
+跑,pǎo,to run
+赢,yíng,to win
+战斗,zhàndòu,to fight
+射击,shèjī,to shoot
+教,jiaō,to teach
+微笑,wēixiào,to smile
+写,xiě,to write
+听,tīng,to listen (music)
+飞翔,fēixiáng,to fly
+工作,gōngzuò,to work
+想,xiǎng,to think
+开,kaī,to drive
+转,zhuǎn ,to turn
+停,tíng,to stop
+打 扫,dǎsǎo,to clean
+喂,wèi,to feed
+搅拌,jiǎobàn,to mix/stir
+听见,tīngjiàn,to hear (a sound)
+爆 炸,bàozhà,to explode
+说,shuō,to speak/say
+找到,zhaǒdaò,to find
+尝,cháng,to taste
+结婚,jiéhūn,to marry
+祈祷,qí dǎo,to pray
+燃烧,ránshāo,to burn
+关,guān,to close

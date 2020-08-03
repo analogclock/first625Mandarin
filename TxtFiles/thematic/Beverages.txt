@@ -1,0 +1,7 @@
+咖啡,kāfēi,coffee
+汁,zhī,juice
+水,shuǐ,water
+啤酒,píjiǔ,beer
+牛奶,niúnǎi,milk
+茶,chá,tea
+饮料,yǐnliào,beverage

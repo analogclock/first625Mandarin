@@ -1,0 +1,6 @@
+艺术,yìshù,art
+电影,diànyǐng,movie
+音乐,yīnyuè,music
+乐器,yuèqì,instrument (musical)
+乐队,yuèduì,band
+歌,gē,song
