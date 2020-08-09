@@ -1,0 +1,2 @@
+Version 2.1.29 (bbff62bf)
+Python 3.8.0 Qt 5.15.0 PyQt 5.15.0
